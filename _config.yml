@@ -3,7 +3,7 @@ title: 無限流TRPG核心規則書 # 換成你喜歡的名稱
 timezone: Asia/Taipei # 確保發文時間正確
 
 # 網址設定 (這非常重要)
-url: "https://lazyjim84923.github.io/UHtrpg/" # 填入你的 GitHub Pages 網址
+url: "https://lazyjim84923.github.io" # 填入你的 GitHub Pages 網址
 baseurl: "/UHtrpg" # 如果你專案叫 trpg-rulebook，這裡就填 "/trpg-rulebook"。如果是 /uh 就填 "/uh"。
 
 # 語言設定 (這就是中文搜尋完美運作的魔法開關)
